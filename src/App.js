@@ -9,7 +9,7 @@ const GalleryPage = lazy(() => import("./pages/GalleryPage.js" /* webpackChunkNa
 
 const App = () => (
   <Layout>
-    <Suspense fallback={<Loader type="Rings" color="#738a93" height={60} width={60} style={{ margin: "5px auto", textAlign: "center" }} />}>
+    <Suspense fallback={<Loader type="ThreeDots" color="#738a93" height={60} width={60} style={{ margin: "15px auto", textAlign: "center" }} />}>
       <Switch>
         <Route path={routes.home} exact component={HomePage} />
         <Route path={routes.gallery} component={GalleryPage} />
