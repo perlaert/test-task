@@ -1,8 +1,6 @@
 import React, { Suspense, lazy } from "react";
 import { Route, Switch } from "react-router-dom";
 import Loader from "react-loader-spinner";
-import style from "./App.css";
-
 import Layout from "./components/Layout/Layout";
 import routes from "./routes";
 
@@ -11,7 +9,7 @@ const GalleryPage = lazy(() => import("./pages/GalleryPage.js" /* webpackChunkNa
 
 const App = () => (
   <Layout>
-    <Suspense fallback={<Loader type="Rings" color="#738a93" height={60} width={60} className={style.loader} />}>
+    <Suspense fallback={<Loader type="Rings" color="#738a93" height={60} width={60} style={{ margin: "5px auto", textAlign: "center" }} />}>
       <Switch>
         <Route path={routes.home} exact component={HomePage} />
         <Route path={routes.gallery} component={GalleryPage} />
