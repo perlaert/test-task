@@ -1,0 +1,34 @@
+{
+  "files": {
+    "static/js/0.d2a62a9c.chunk.js": "/test-task/static/js/0.d2a62a9c.chunk.js",
+    "static/js/0.d2a62a9c.chunk.js.map": "/test-task/static/js/0.d2a62a9c.chunk.js.map",
+    "gallery-page.css": "/test-task/static/css/gallery-page.60b755fb.chunk.css",
+    "gallery-page.js": "/test-task/static/js/gallery-page.b5314e83.chunk.js",
+    "gallery-page.js.map": "/test-task/static/js/gallery-page.b5314e83.chunk.js.map",
+    "home-page.css": "/test-task/static/css/home-page.2e3eacd3.chunk.css",
+    "home-page.js": "/test-task/static/js/home-page.cb451d04.chunk.js",
+    "home-page.js.map": "/test-task/static/js/home-page.cb451d04.chunk.js.map",
+    "main.css": "/test-task/static/css/main.6966abb6.chunk.css",
+    "main.js": "/test-task/static/js/main.84b452ba.chunk.js",
+    "main.js.map": "/test-task/static/js/main.84b452ba.chunk.js.map",
+    "runtime-main.js": "/test-task/static/js/runtime-main.c1a40254.js",
+    "runtime-main.js.map": "/test-task/static/js/runtime-main.c1a40254.js.map",
+    "static/js/5.95c6d6d4.chunk.js": "/test-task/static/js/5.95c6d6d4.chunk.js",
+    "static/js/5.95c6d6d4.chunk.js.map": "/test-task/static/js/5.95c6d6d4.chunk.js.map",
+    "static/js/6.6c909a6e.chunk.js": "/test-task/static/js/6.6c909a6e.chunk.js",
+    "static/js/6.6c909a6e.chunk.js.map": "/test-task/static/js/6.6c909a6e.chunk.js.map",
+    "index.html": "/test-task/index.html",
+    "static/css/gallery-page.60b755fb.chunk.css.map": "/test-task/static/css/gallery-page.60b755fb.chunk.css.map",
+    "static/css/home-page.2e3eacd3.chunk.css.map": "/test-task/static/css/home-page.2e3eacd3.chunk.css.map",
+    "static/css/main.6966abb6.chunk.css.map": "/test-task/static/css/main.6966abb6.chunk.css.map",
+    "static/js/0.d2a62a9c.chunk.js.LICENSE.txt": "/test-task/static/js/0.d2a62a9c.chunk.js.LICENSE.txt",
+    "static/js/5.95c6d6d4.chunk.js.LICENSE.txt": "/test-task/static/js/5.95c6d6d4.chunk.js.LICENSE.txt",
+    "static/js/6.6c909a6e.chunk.js.LICENSE.txt": "/test-task/static/js/6.6c909a6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1a40254.js",
+    "static/js/5.95c6d6d4.chunk.js",
+    "static/css/main.6966abb6.chunk.css",
+    "static/js/main.84b452ba.chunk.js"
+  ]
+}
