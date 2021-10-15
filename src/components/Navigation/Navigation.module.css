@@ -1,0 +1,13 @@
+.NavLink {
+  font-size: 20px;
+  color: #fff;
+  list-style: none;
+}
+
+.NavLink:not(:last-child) {
+  margin-right: 50px;
+}
+
+.NavLinkActive {
+  color: #c4dfe6;
+}

@@ -1,0 +1,19 @@
+.pageTitle {
+  margin-left: 80px;
+}
+
+.rec-carousel {
+  padding-bottom: 10px;
+}
+.rec.rec-arrow {
+  border-radius: 50%;
+}
+
+.rec.recArrow:disabled {
+  visibility: hidden;
+}
+
+.rec-carousel-item:focus {
+  outline: none;
+  box-shadow: inset 0 0 1px 1px lightgrey;
+}

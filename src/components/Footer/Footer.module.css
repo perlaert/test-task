@@ -1,0 +1,22 @@
+.Footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #738a93;
+  color: #fff;
+  border-top: 1px solid #ccc;
+  box-shadow: -1px -3px 11px 1px rgb(0 0 0 / 20%);
+}
+
+.copyRight {
+  font-size: 16px;
+  text-align: center;
+}
+
+.copyRight a {
+  margin-left: 5px;
+  color: inherit;
+}
