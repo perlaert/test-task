@@ -1,8 +1,8 @@
 ## Setting up Dev
 
-Для быстрого страта необходимо склонировать репозиторий:
+Для быстрого старта необходимо склонировать репозиторий:
 
-`git clone https://github.com/perlaert/test-task.git
+`git clone https://github.com/perlaert/test-task.git`
 
 Затем перейти в папку проекта: `cd test-task`
 
