@@ -1,4 +1,4 @@
-## Setting up Dev
+## Setting up the app locally
 
 Для быстрого старта необходимо склонировать репозиторий:
 
