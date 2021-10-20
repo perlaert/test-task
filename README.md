@@ -1,16 +1,16 @@
-## Setting up Dev
+## Setting up the app locally
 
-Для быстрого страта необходимо склонировать репозиторий:
+Для быстрого старта необходимо склонировать репозиторий:
 
-`git clone https://github.com/perlaert/test-task.git` &mdash;
+`git clone https://github.com/perlaert/test-task.git`
 
-Затем перейти в папку проекта: `cd test-task` &mdash;
+Затем перейти в папку проекта: `cd test-task`
 
-Установить все зависимости: `npm install` &mdash;
+Установить все зависимости: `npm install`
 
-Запустить в режиме разработки `npm start` &mdash;
+Запустить в режиме разработки `npm start`
 
-Во вкладке браузера перейти по адресу http://localhost:3000.
+Во вкладке браузера перейти по адресу http://localhost:3000
 
 ## Deploying / Publishing:
 
