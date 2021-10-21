@@ -39,6 +39,7 @@ img {
 .rec .rec-arrow-right {
   position: absolute;
   z-index: 2;
+  font-size: 0;
   color: gray;
   background-color: #808080;
   box-shadow: 0 2px 8px 1px rgb(34 60 80 / 30%);
