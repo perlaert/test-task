@@ -31,11 +31,6 @@ img {
   min-height: 240px;
 }
 
-.rec .rec-arrow-left:disabled,
-.rec .rec-arrow-right:disabled {
-  visibility: hidden;
-}
-
 .rec-carousel {
   position: relative;
 }
@@ -44,22 +39,31 @@ img {
 .rec .rec-arrow-right {
   position: absolute;
   z-index: 2;
-  background-color: rgb(248, 248, 248);
+  color: gray;
+  background-color: #808080;
   box-shadow: 0 2px 8px 1px rgb(34 60 80 / 30%);
-  opacity: 0.8;
+}
+
+.rec .rec-arrow-right {
+  background-image: url(./images/rightArrow.svg);
+  right: 7px;
+}
+
+.rec .rec-arrow-left {
+  background-image: url(./images/leftArrow.svg);
+  left: 7px;
 }
 
 .rec .rec-arrow-left:hover:enabled,
 .rec .rec-arrow-right:hover:enabled,
 .rec .rec-arrow-left:focus:enabled,
 .rec .rec-arrow-right:focus:enabled {
-  background-color: cadetblue;
+  color: grey;
+  background-color: #808080;
+  box-shadow: 0 2px 12px 1px #738a93;
 }
 
-.rec-arrow-right {
-  right: 7px;
-}
-
-.rec-arrow-left {
-  left: 7px;
+.rec .rec-arrow-left:disabled,
+.rec .rec-arrow-right:disabled {
+  visibility: hidden;
 }
