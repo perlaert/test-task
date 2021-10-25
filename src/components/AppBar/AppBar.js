@@ -5,8 +5,8 @@ import style from "../AppBar/AppBar.module.css";
 const AppBar = () => {
   return (
     <header className={style.AppBar}>
-      <a href="/" className="header-logo">
-        <Logo className="header-logo" laptopClassName="header-laptop" />
+      <a href="/">
+        <Logo />
       </a>
       <Navigation />
     </header>

@@ -8,15 +8,3 @@
   border-bottom: 1px solid #ccc;
   box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.2);
 }
-
-.header-logo {
-  fill: #fff;
-}
-
-.header-laptop {
-  transition: fill 0.4s;
-}
-
-.header-logo:hover .header-laptop {
-  fill: purple;
-}
