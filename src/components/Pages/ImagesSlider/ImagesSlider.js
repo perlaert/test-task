@@ -20,9 +20,7 @@ class ImagesSlider extends Component {
     imagesApi
       .fetchImages()
       .then((results) => {
-        this.setState((prevState) => ({
-          images: [...prevState.images, ...results],
-        }));
+        this.setState({ images: results });
         localStorage.setItem("images", JSON.stringify(results));
       })
       .catch((error) =>
